@@ -21,3 +21,5 @@ Steps followed
 2. Data modelling
 3. Dashboard creation
 
+![](images/report.jpg)
+
