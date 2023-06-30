@@ -21,5 +21,23 @@ Steps followed
 2. Data modelling
 3. Dashboard creation
 
+Data cleaning and Transformation
+
+From a big database, required tables were identified by referring to user stories. Using SQL queries the tables were cleaned. Here are the SQL queries used
+
+In the above SQL statement, DimProduct table is being queried. Only required columns are selected. To get data about Product Category and Product Subcategory, left join is used on two other tables. DimProduct table will be used in the dashboard that presents product wise data.
+
+In above SQL query, DimCustomer table is queried. Only required columns are selected. To get data about customer's location, left join is used on another table. DimCustomer table will be used in the dashboard that presents customer wise data.
+
+ In above SQL query, DimDate table is queried. Only required columns are selected. Customer needs only last 2 years data to be considered. 
+
+In above SQL query, FactInternetSales table is queried. Only required columns are selected. FactInternetSales table will be used in the dashboard that presents internets sales data.
+
+Data Model :-
+After identifying and cleaning required tables, they are read into PowerBI. A data model is created and relationships between different tables is defined. Budget is read and included as well.
+
+Sales Management Dashboard
+Please click following dashboard to see more reports. Thanks!
+
 ![](images/report.jpg)
 
