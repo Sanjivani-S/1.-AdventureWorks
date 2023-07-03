@@ -1,5 +1,5 @@
 # AdventureWorks  (PowerBI Project)
-##Project 1 - Adventure Works = Data taken from Microsoft sample database
+## Project 1 - Adventure Works = Data taken from Microsoft sample database
 
 Business Request :- 
 
@@ -7,7 +7,7 @@ A request for - executive sales report for sales managers - was raised.
 
 Following user stories were refered
 
-| # | As a (Role)          | I want ( request/ demand)                           | so that I ( User Value)                                          | Acceptance Criteria                                        |
+| # | As a (Role)          | I want ( request/ demand)                           | So that I ( User Value)                                          | Acceptance Criteria                                        |
 |---|----------------------|-----------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------|
 | 1 | Sales Manager        | A dashboard overview of internet sales              | to know highest selling products and top customers               | A dashboard that updates once a day                        |
 | 2 | Sales Manager        | A dashboard overview of internet sales              | to sales over time against the budget                            | A dashboard with graphs and KPIs that compares with budget |
